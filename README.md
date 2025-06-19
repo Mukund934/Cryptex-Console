@@ -2,9 +2,9 @@
 
 # 🚀 About Cryptex Console: A Stunning Crypto Dashboard
 
-![Preview 1](.public/preview1.png)
-![Preview 2](.public/preview2.png)
-![Preview 3](.public/preview3.png)
+![Preview 1](public/preview1.png)
+![Preview 2](public/preview2.png)
+![Preview 3](/public/preview3.png)
 
 **NeonPulse** is a dynamic and visually compelling cryptocurrency dashboard built with 💡 **React**, 💄 **Tailwind CSS**, ⚡ **Vite**, and the ultra-fast ⚙️ **Bun** runtime. Packed with live charts, portfolio tracking, ETH gas meters, trending tokens, and market analysis — it’s your personal, real-time **crypto command center**.
 
